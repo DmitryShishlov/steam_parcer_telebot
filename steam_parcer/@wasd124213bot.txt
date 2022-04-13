@@ -1,0 +1,4 @@
+Edit @wasd124213bot info.
+
+Name: Steam_Parse
+Description: Узнать, что я могу /help
